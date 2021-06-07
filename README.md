@@ -1,7 +1,7 @@
 # Handel_Missing_Values
 ### All The Technique To Handel The Missing Values Of  ["Numeric"] &amp; ["Categorical"] Values
 
-## For Numaric Missing Values There Are 5 Techniques
+## 👉 For Numaric Missing Values There Are 5 Techniques
 
 #### 1. Mean/ Median/Mode replacement
 #### 2. Random Sample Imputation
@@ -11,7 +11,7 @@
 
 
 
-## For Catagoricle Missing Values There Are 3 Techniques
+## 👉 For Catagoricle Missing Values There Are 3 Techniques
 
 #### 1. Frequent categories imputation
 #### 2. Adding Variable To Capture NAN
